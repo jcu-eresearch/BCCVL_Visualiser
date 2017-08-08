@@ -42,6 +42,14 @@ yum install libpng				# got 1.5 already
 yum install libpng-devel		# installed 1.5
 yum install pip					# installed 8.1
 yum install cmake				# installed 3.1
+
+yum install fribidi-devel       # installed 0.19
+yum install harfbuzz-devel		# installed 1.3.2
+yum install cairo-devel			# installed 1.14.8
+yum install fcgi-devel			# installed 2.4.0
+yum install geos-devel			# installed 3.4.2
+yum install postgresql-devel	# installed 9.2.21
+yum install postgis				# installed 2.0.7
 ```
 
 **`npm` didnt find**:
