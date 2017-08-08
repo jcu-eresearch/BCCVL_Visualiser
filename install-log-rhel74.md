@@ -41,6 +41,7 @@ yum install gmp					# got 6.0 already
 yum install libpng				# got 1.5 already
 yum install libpng-devel		# installed 1.5
 yum install pip					# installed 8.1
+yum install cmake				# installed 3.1
 ```
 
 **`npm` didnt find**:
