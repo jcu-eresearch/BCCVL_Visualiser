@@ -257,7 +257,7 @@ class RasterBCCVLMap(BCCVLMap):
 
     COLOR_BANDS = 8
     MIN_COLOR = [255, 255, 255]
-    MAX_COLOR = [255, 0,   0]
+    MAX_COLOR = [128, 0,   255]
 
     def __init__(self, **kwargs):
         super(RasterBCCVLMap, self).__init__(**kwargs)
