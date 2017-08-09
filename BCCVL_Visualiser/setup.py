@@ -18,8 +18,8 @@ requires = [
     #
     # For travis, it's installed via packages
     #
-    'GDAL >= 1.7.3',
-    'mapscript >= 6.0.1',      # Python Map Server implementation
+    'GDAL >= 1.11.2',
+    'mapscript >= 6.2.1',      # Python Map Server implementation
     'zope.interface >= 4.1.0',
 
     'dogpile.cache',    # cache regions, lets you cache the result of queries
