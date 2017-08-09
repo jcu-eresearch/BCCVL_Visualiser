@@ -50,6 +50,10 @@ yum install fcgi-devel			# installed 2.4.0
 yum install geos-devel			# installed 3.4.2
 yum install postgresql-devel	# installed 9.2.21
 yum install postgis				# installed 2.0.7
+
+yum install atlas-devel			# installed 3.10.1
+yum install blas-devel			# installed 4.8.5
+
 ```
 
 **`npm` didnt find**:
