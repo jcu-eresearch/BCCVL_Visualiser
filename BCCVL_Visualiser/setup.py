@@ -33,7 +33,7 @@ requires = [
     'waitress',
     'pyramid_xmlrpc',
     'numpy',
-    'matplotlib',
+    'matplotlib = 2.0.1',
     'scipy',
     'repoze.vhm',       # Use repoze middleware for Virtual Host management
     'csvvalidator',
