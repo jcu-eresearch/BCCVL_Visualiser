@@ -1,6 +1,9 @@
 # The default file to render a geotiff raster
 
 MAP
+
+    CONFIG "PROJ_LIB" "/usr/local/share/proj/"
+
     SYMBOLSET "symbols.map"
 
     PROJECTION
